@@ -12,3 +12,5 @@ There are a number of programs available to facilitate through the PISCINE progr
 **Python tutor** : To review your code.  >-- https://pythontutor.com/ --<
 
 **GDB**: Debugger for Linux, useful during the exams. >-- https://www.sourceware.org/gdb/ --<
+
+**EXAM QUESTIONS**: All the exam questions to study  >-- http://nigal.freeshell.org/42/ --<
