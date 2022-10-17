@@ -4,10 +4,10 @@
 My repository during my 42 PISCINE!!
 
 
-Programs to help trough the PISCINE
+There are a number of programs available to facilitate through the PISCINE program
 ----------
 
-**grademe.fr**: A tool to simulate the exams, be careful that some exercise might be not the same as for your Piscine. >-- https://grademe.fr/ --<
+**grademe.fr**: You can use this tool to simulate the exams, but keep in mind that some exercises might not be identical to your Piscine. >-- https://grademe.fr/ --<
 
 **Python tutor** : To review your code.  >-- https://pythontutor.com/ --<
 
