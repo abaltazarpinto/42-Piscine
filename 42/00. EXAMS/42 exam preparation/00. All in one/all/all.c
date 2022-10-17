@@ -1,4 +1,6 @@
-/*aff a*/
+/*------------------------------*/
+/*----------aff a---------------*/
+/*------------------------------*/
 
 #include <unistd.h>
 void	ft_putchar(char c)
@@ -38,7 +40,9 @@ int	main(int ac, char **av)
 	}
 	return (0);
 }
-/*aff_first_param*/
+/*----------------------------------*/
+/*---------aff_first_param---------*/
+/*---------------------------------*/
 
 /*Assignment name  : aff_first_param
 Expected files   : aff_first_param.c
