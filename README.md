@@ -1,8 +1,5 @@
 # 42-school
-42 piscine
-
-My repository during my 42 PISCINE!!
-
+My solutions for the 42 piscine
 
 There are a number of programs available to facilitate through the PISCINE program
 ----------
